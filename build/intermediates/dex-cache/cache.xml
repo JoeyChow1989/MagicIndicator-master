@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="I:\MyStudioWork\MagicIndicator-master\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="I:\MyStudioWork\MagicIndicator-master\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-23.4.0_ec86229b62392404bb28dc5ffb29f47db61c0514.jar" />
+    </item>
+    <item
+        jar="I:\MyStudioWork\MagicIndicator-master\app\build\intermediates\exploded-aar\MagicIndicator-master\magicindicator\unspecified\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="1f2f240c664ec76760d8f2c5fe723c65e73bd047">
+        <dex dex="I:\MyStudioWork\MagicIndicator-master\app\build\intermediates\pre-dexed\debug\MagicIndicator-master-magicindicator-unspecified_233c89f3853b9adaa6ece70b05fbfaa236a427e5.jar" />
+    </item>
+    <item
+        jar="I:\MyStudioWork\MagicIndicator-master\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="I:\MyStudioWork\MagicIndicator-master\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-23.4.0_53178f460257dbc37f410d81a148105a1e8f41b2.jar" />
+    </item>
+    <item
+        jar="D:\ProgramFiles\androidsdk\android-sdk-windows\extras\android\m2repository\com\android\support\support-annotations\23.4.0\support-annotations-23.4.0.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="I:\MyStudioWork\MagicIndicator-master\app\build\intermediates\pre-dexed\debug\support-annotations-23.4.0_61e12a7fa47c30b689b04c04fba2382132fcea3c.jar" />
+    </item>
+    <item
+        jar="I:\MyStudioWork\MagicIndicator-master\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="I:\MyStudioWork\MagicIndicator-master\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-23.4.0_85a8d11daff33d8ceb7f41f94b54842d50552797.jar" />
+    </item>
+    <item
+        jar="I:\MyStudioWork\MagicIndicator-master\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\libs\internal_impl-23.4.0.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="I:\MyStudioWork\MagicIndicator-master\app\build\intermediates\pre-dexed\debug\internal_impl-23.4.0_2b196d44356211055c932da3f344e24998b586e1.jar" />
+    </item>
+    <item
+        jar="I:\MyStudioWork\MagicIndicator-master\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="I:\MyStudioWork\MagicIndicator-master\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-23.4.0_c58c0500ba683c5fe4db017d6556501234453097.jar" />
+    </item>
+
+</items>
